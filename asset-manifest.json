@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/17-homework/static/css/main.d43d4094.css",
+    "main.js": "/17-homework/static/js/main.4a80cd98.js",
+    "static/js/787.2d85fc11.chunk.js": "/17-homework/static/js/787.2d85fc11.chunk.js",
+    "static/media/shawshank-redemption.png": "/17-homework/static/media/shawshank-redemption.74dc98f6603a01fe6cb9.png",
+    "static/media/green-mile.png": "/17-homework/static/media/green-mile.5b2176ed820e117fb879.png",
+    "static/media/andy-dufresne.png": "/17-homework/static/media/andy-dufresne.fdfcd3925f0033ed4f17.png",
+    "static/media/john-coffee.png": "/17-homework/static/media/john-coffee.71b02f094a02cbf2cd06.png",
+    "static/media/forrest-gump-image.png": "/17-homework/static/media/forrest-gump-image.7cf359742b843521c956.png",
+    "static/media/forrest-gump.png": "/17-homework/static/media/forrest-gump.655254d24e0af7641e6c.png",
+    "index.html": "/17-homework/index.html",
+    "main.d43d4094.css.map": "/17-homework/static/css/main.d43d4094.css.map",
+    "main.4a80cd98.js.map": "/17-homework/static/js/main.4a80cd98.js.map",
+    "787.2d85fc11.chunk.js.map": "/17-homework/static/js/787.2d85fc11.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d43d4094.css",
+    "static/js/main.4a80cd98.js"
+  ]
+}
