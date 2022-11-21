@@ -1,8 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './style/style.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+import './components/style/style.css';
+import App from './components/modules/App';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -12,5 +11,3 @@ root.render(
       <footer className="footer"><h2>Homework #17</h2></footer>
   </React.StrictMode>
 );
-
-reportWebVitals();

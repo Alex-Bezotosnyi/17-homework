@@ -10,7 +10,7 @@ h1 {
 }
 
 body {
-    background: rgb(252 255 151 / 79%);
+    background: radial-gradient(circle, rgba(236,237,16,0.465721322708771) 0%, rgba(255,186,65,0.2836484935771183) 91%);
     margin: 0;
     padding: 0;
     font-family: "Poppins", sans-serif;
